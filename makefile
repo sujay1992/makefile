@@ -1,4 +1,3 @@
-#
 CC=g++
 CFLAGS=-I.
 
